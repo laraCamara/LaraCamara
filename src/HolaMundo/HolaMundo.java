@@ -3,21 +3,20 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
-package proyecto1;
+package HolaMundo;
 
 /**
  *
  * @author dam
  */
-public class Proyecto1 {
+public class HolaMundo {
 
     /**
      * @param args the command line arguments
      */
     public static void main(String[] args) {
-       
-        //Primer mensaje
-        // Segundo Mensaje
+        // TODO code application logic here
+        System.out.println("8 enero");
     }
     
 }
